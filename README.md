@@ -2,4 +2,4 @@
 
 - 👩‍💻  Desenvolvedora Web
 - 👩‍🎓  Análise e Desenvolvimento de Sistemas
-- 📚  Pós Desenvolvimento full Stack 
+- 📚  Gestão em sistemas de Informação 
