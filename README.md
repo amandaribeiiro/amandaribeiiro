@@ -1,12 +1,10 @@
 ## Oiii sou Amanda Ribeiro, criadora de conteúdo de programação e tecnologia!
 
-👩🏻‍💻 Desenvolvedora Front End Junior
+👩🏻‍💻 Desenvolvedora de Software
 
 👩🏻‍🎓 Formada em Análise e Desenvolvimento de Sistemas
 
-📚 Estou 1º semestre de Gestão em Tecnologia da informação
 
-💻 Pós Graduação em Front-End engineering
 
 
 ![image](https://github.com/amandaribeiiro/amandaribeiiro/assets/160863767/496b2f12-9e17-41da-afde-b5901f692d93)
