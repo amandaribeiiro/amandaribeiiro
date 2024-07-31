@@ -4,6 +4,8 @@
 
 👩🏻‍🎓 Formada em Análise e Desenvolvimento de Sistemas
 
+📚 Pós Engenharia de Software
+
 
 
 
