@@ -1,19 +1,14 @@
-## Oiii
-Engenheira de Software
-(HTML e CSS | Javascript | React | Node.js | Angular 17 | TypeScript | Tailwind CSS) 
+Olá ✌🏻 
+Meu nome é Amanda Ribeiro 
+
+Apaixonada por Desenvolvimento Web ♥ 
+
+(HTML e CSS | Javascript | React | Node.js | Angular 17 | TypeScript | Tailwind CSS) 👩🏻‍💻    
+
+👩🏻‍🎓 Formada em Análise e Desenvolvimento de Sistemas 
+
+📚 Pós Graduação em Engenharia de Software  
 
 
 
-
-![image](https://github.com/amandaribeiiro/amandaribeiiro/assets/160863767/496b2f12-9e17-41da-afde-b5901f692d93)
-
-
-
-##
-<div> 
- 
-  <a href="https://www.instagram.com/devamanda_/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
- 	<a href = "mailto:amandaribeirodasilva95@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/amanda-ribeiro-14b681302/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  
-</div>
+https://i.pinimg.com/564x/1d/22/58/1d2258563ac4fb734640a34624235314.jpg
